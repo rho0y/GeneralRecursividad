@@ -1,0 +1,7 @@
+git init
+git branch -m master main
+git add .
+git commit -m "First Commit"
+git remote add origin https://github.com/asdjka
+git branch -M main
+git push -f -u origin main
